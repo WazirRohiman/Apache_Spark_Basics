@@ -8,10 +8,10 @@ This repo contains code and explanation that covers the following topics.
 * Transformations and actions to RDDs
 * The basics of Dataframes and SparkSQL
 * How to submit an apache spark application  as follows
-  '''
+  ```
     Install a Spark Master and Worker using Docker Compose
     Create a python script containing a spark job
     Submit the job to the cluster directly from python (Note: you’ll learn how to submit a job from the command line in the Kubernetes Lab)
-  '''
+  ```
 
 
