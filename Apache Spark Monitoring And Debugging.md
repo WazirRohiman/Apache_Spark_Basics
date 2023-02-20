@@ -132,6 +132,7 @@ dfa.show()
 ```
 
 ### If there are no errors, the output should look like this
+```
 +---------+------------------+-------------+                                    
 |cylinders|          avg(mpg)|first(engine)|
 +---------+------------------+-------------+
@@ -141,7 +142,7 @@ dfa.show()
 |        4|29.286764705882348|  inline-four|
 |        8|14.963106796116506|           V8|
 +---------+------------------+-------------+
-
+```
 
 ## **Monitor Application Performance with the UI**
 Scale up the application by adding a worker to the cluster. This will allow the cluster to run more tasks in parallel and improve the overall performance.
